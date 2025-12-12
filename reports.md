@@ -24,18 +24,29 @@ Hovering over an item will return a description, you can also create an alert
 
 <img width="1923" height="710" alt="reports-create-alerts" src="https://github.com/user-attachments/assets/e0fcc79d-1930-434c-b435-9368d6328a40" />
 
-You will have a menu to configure
+You will see a menu to configure
 
 <img width="1902" height="786" alt="reports-createalert2" src="https://github.com/user-attachments/assets/9e74c3c6-0d04-40e0-9fe3-7b51ebaa655a" />
+
+Set up alert logic, you may also selecct filters
+ 
+<img width="1920" height="1080" alt="reports-alertlogic" src="https://github.com/user-attachments/assets/4e7e02ad-3732-4b16-8e3e-f29dda1a93df" />
+
+Set up email lists and custom message
+
+<img width="1920" height="1080" alt="alert-notification-setup" src="https://github.com/user-attachments/assets/470e14d0-8957-4eff-b50e-bf9ed427275f" />
+
+Select a DataSource
 
 A DataSource in ObservePoint is the term used to represent the different ways that the platform can collect, analyze, and monitor data from your digital assets. Essentially, it is the container for a specific type of automated test or data collection mechanism.
 Source:
 https://help.observepoint.com/en/articles/9089312-data-sources-standards-and-configurations
 
-
+<img width="1920" height="1080" alt="alerts-datasource" src="https://github.com/user-attachments/assets/fd371a2f-45d9-4219-a1b8-84d869eac9af" />
 
 Once setup is finished, you will see a preview of how past alerts would've looked
 
+<img width="1920" height="1080" alt="alerts-preview" src="https://github.com/user-attachments/assets/ff759be2-06d6-4497-b482-f53fd2ae1da7" />
 
 
 
